@@ -1,0 +1,26 @@
+Para funcionar necesita:
+python
+python-pygame
+
+comentarios del autor:
+
+He decidido lanzar ya la versión final de PixCar. Hace ya algún tiempo que tengo abandonado su desarrollo, ya que este juego lo comencé el verano pasado para ir aprendiendo python, y el proyecto comenzó a crecer, hasta que conseguí un juego bastante decente.
+
+Luego pensé en introducirle el juego en red, y fue muy emocionante, y aprendí mucho sobre sockets, y las dificultades del desarrollo de juegos multijugadores. En principio lo implementé con sockets tcp, por eso solo es jugable en una red local y no a través de internet.
+
+He subido todo el código a googlecode http://code.google.com/p/pixcar/ , si alguien continua por su cuenta el proyecto, y quiere ayuda, que le explique cómo he hecho algo, o lo que sea, puede enviarme un correo, y contestaré encantado.
+
+Las características del juego son:
+-carrera en solitario
+-carrera multijugador en lan, muy divertido
+-posibilidad de jugar con el wiimote (hay que configurar todo como explica en WMD, y sincronizar justo antes de empezar la carrera) 
+-posibilidad de añadir nuevos circuitos y coches de manera fácil (solo son imágenes y ficheros de texto con las características)
+
+gracias a todos por jugar...
+
+aquí está el tgz con la versión final:
+http://pixjuegos.com/descargas/pixcar-1.0.tgz
+
+Lo he probado en linux, se necesita python y pygame. En teoría debería funcionar en windows, porque python es multiplataforma, pero no lo he probado, y es posible que haya utilizado funciones especificas de linux y no sea portable, si alguien lo hace funcionar en windows, que lo comentente en el foro si no es mucha molestia.
+
+danigm...

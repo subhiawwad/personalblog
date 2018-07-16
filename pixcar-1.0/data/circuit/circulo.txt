@@ -1,0 +1,8 @@
+cbg:circulo-bg.png
+cfg:circulo.png
+lap:5
+ang:8
+ctx:1370,1870
+ctx:1320,1920
+ctx:1270,1870
+ctx:1220,1920

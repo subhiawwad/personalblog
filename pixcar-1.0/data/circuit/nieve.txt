@@ -1,0 +1,8 @@
+cbg:nieve-bg.png
+cfg:nieve.png
+lap:3
+ang:352
+ctx:1450,2370
+ctx:1400,2420
+ctx:1350,2370
+ctx:1300,2420

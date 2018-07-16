@@ -1,0 +1,7 @@
+num:12
+max:25
+low:3
+acc:0.4
+fre:0.4
+gir:3.5
+ang:0

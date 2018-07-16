@@ -1,0 +1,14 @@
+cbg:monaco-bg.png
+cfg:monaco.png
+cf2:monaco-fg.png
+lap:3
+ang:55
+ctx:1086,804
+ctx:1076,921
+ctx:967,965
+ctx:958,1082
+ctx:848,1126
+ctx:840,1243
+ctx:729,1287
+ctx:722,1404
+

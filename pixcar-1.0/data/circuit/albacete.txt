@@ -1,0 +1,7 @@
+cbg:albacete-bg.png
+cfg:albacete.png
+lap:3
+ctx:1056,2442
+ctx:1000,2495
+ctx:950,2442
+ctx:900,2495

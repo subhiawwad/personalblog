@@ -1,0 +1,8 @@
+cir:monaco
+new:03:25:25             car             danigm                   
+new:03:04:29             f1              danigm                   
+cir:jerez
+new:06:05:60             sport           dani                     
+cir:circulo
+new:05:53:86             car             danigm                   
+end

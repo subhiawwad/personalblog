@@ -1,0 +1,8 @@
+cbg:jerez-db.png
+cfg:jerez.png
+lap:3
+ang:75
+ctx:2410,1450
+ctx:2465,1545
+ctx:2355,1635
+ctx:2405,1775

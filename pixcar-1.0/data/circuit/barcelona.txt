@@ -1,0 +1,14 @@
+cbg:barcelona-bg.png
+cfg:barcelona.png
+lap:3
+ang:180
+ctx:3357,1633
+ctx:3457,1571
+ctx:3557,1633
+ctx:3657,1571
+ctx:3757,1633
+ctx:3857,1571
+ctx:3957,1633
+ctx:4057,1571
+ctx:4157,1633
+ctx:4257,1571

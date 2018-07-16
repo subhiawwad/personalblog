@@ -1,0 +1,7 @@
+cbg:pixjuegos-bg.png
+cfg:pixjuegos.png
+lap:5
+ctx:1500,1770
+ctx:1450,1820
+ctx:1400,1770
+ctx:1350,1820

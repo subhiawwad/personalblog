@@ -1,0 +1,10 @@
+cbg:pix2-bg.png
+cfg:pix2.png
+lap:7
+ang:180
+ctx:1060,1945
+ctx:1120,1840
+ctx:1200,1763
+ctx:1200,1940
+ctx:1260,1840
+ctx:1340,1763

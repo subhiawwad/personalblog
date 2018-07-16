@@ -1,0 +1,4 @@
+#!/bin/bash
+
+convert "$1-bg.png" -colors 255 -verbose +dither -depth 8 "$1-bg.png"
+convert "$1.png" -colors 10 -verbose +dither -depth 8 "$1.png"
